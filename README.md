@@ -1,1 +1,1 @@
-# traffic automata simulator
+# traffic automata simulator using pushdown automata
